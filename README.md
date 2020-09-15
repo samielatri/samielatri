@@ -1,16 +1,41 @@
-### Hi there 👋
+<!-- **samielatri/samielatri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<h1 align="center">Hi, I'm Sami 👋< </h1>
 
-<!--
-**samielatri/samielatri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> languages </h2>
+<ul>
+  <li>C</li>
+  <li>Java</li>
+  <li>Ruby</li>
+  <li>OCaml</li>
+  <li>JavaScript</li>
+  <li>PHP</li>
+  <li>SQL</li>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>Shell scripts - sh, bash</li>
+</ul>
 
-Here are some ideas to get you started:
+<h2>Frontend frameworks</h2>
+<ul>
+  <li>Bootstrap</li>
+  <li>jQuery</li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Backend frameworks</h2>
+<ul>
+  <li>Ruby On Rails</li>
+  <li>Laravel</li>
+</ul>
+
+<h2>runtime development plateform</h2>
+<ul>
+  <li>NodeJS/li>
+</ul>
+
+<h2>DBMS</h2>
+<ul>
+  <li>PostgreSQL</li>
+  <li>MySQL</li>
+  <li>SQLite</li>
+  <li>MongoDB</li>
+</ul>
