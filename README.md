@@ -29,7 +29,7 @@
 
 <h2>runtime development plateform</h2>
 <ul>
-  <li>NodeJS/li>
+  <li>NodeJS</li>
 </ul>
 
 <h2>DBMS</h2>
