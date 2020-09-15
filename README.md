@@ -4,6 +4,7 @@
 <h2> languages </h2>
 <ul>
   <li>C</li>
+  <li>Python</li>
   <li>Java</li>
   <li>Ruby</li>
   <li>OCaml</li>
