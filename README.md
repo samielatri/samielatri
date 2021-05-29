@@ -27,6 +27,7 @@
   <li>HTML</li>
   <li>CSS</li>
   <li>Shell scripts - sh, bash</li>
+  <li>Mips Assembly language</li> 
 </ul>
 
 <h2>Frontend frameworks</h2>
