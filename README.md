@@ -30,18 +30,20 @@
   <li>Mips Assembly language</li> 
 </ul>
 
-<h2>Frontend frameworks</h2>
+<h2>frameworks</h2>
 <ul>
   <li>Bootstrap</li>
+  <li>Bulma</li>
   <li>jQuery</li>
-</ul>
-
-<h2>Backend frameworks</h2>
-<ul>
   <li>Ruby On Rails</li>
   <li>Laravel</li>
   <li>Symfony</li>
+  <li>Vert.x</li>
+  <li>JUnit</li>
+  <li>Mockito</li>
+  <li>Scrapy</li>
 </ul>
+
 
 <h2>runtime development plateform</h2>
 <ul>
@@ -59,4 +61,15 @@
   <li>MySQL</li>
   <li>SQLite</li>
   <li>MongoDB</li>
+</ul>
+
+<h2>Libraries</h2>
+<ul>
+  <li>SDL</li>
+  <li>OpenCV</li>
+  <li>Pandas</li>
+  <li>NumPy</li>
+  <li>Matplotlib</li>
+  <li>Scikit-Learn</li>
+  <li>Seaborn</li>
 </ul>
