@@ -1,8 +1,5 @@
- 409 Conflict
-
-
 <!-- **samielatri/samielatri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-<!--
+
 <h1 align="center">Hi, I'm Sami 👋</h1>
 
 <a href="https://github.com/samielatri">
@@ -12,7 +9,7 @@
 <a href="https://github.com/samielatri">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samielatri&layout=compact&theme=radical" />
 </a>
-
+<!--
 <h2> languages </h2>
 <ul>
   <li>C</li>
