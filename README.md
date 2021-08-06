@@ -9,7 +9,7 @@
 <a href="https://github.com/samielatri">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samielatri&layout=compact&theme=radical" />
 </a>
-<!--
+
 <h2> languages </h2>
 <ul>
   <li>C</li>
@@ -72,4 +72,3 @@
   <li>Scikit-Learn</li>
   <li>Seaborn</li>
 </ul>
--->
